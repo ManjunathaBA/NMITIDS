@@ -1,2 +1,2 @@
 # NMITIDS
-NMIT network dataset
+NMIT network Intrusion dataset
